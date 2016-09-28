@@ -2,9 +2,12 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
-description: |
+title: Day 2
+description: 
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Peru for Less will schedule a private transfer to take you from your hotel to the airport for your flight to Cusco.
+Upon arrival at the Cusco airport, a Peru For Less representative will meet you for the drive to the historic center. 
+<br>
+On the way to your hotel, you will see examples of Spanish colonial architecture constructed upon the remains of ancient Inca palaces and temples.
+<br>
+Arriving mid-day at your hotel, you now have the rest of the day to begin your exploration of the city. Since Cusco is located at 11,300 feet in elevation, during this first afternoon in the city you may want to take it easy so that you can begin acclimatizing to the altitude. Nevertheless, this is a good chance to wander about the main square, with its many cafes and stores, or even visit a museum. There are also many options for casual and/or fine dining.
