@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
+title: Mr and Mrs Potter
 email: your-email@domain.com
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
@@ -31,4 +31,4 @@ social:
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url:
