@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: iphones.png
 category: Services
 title: Day 3
 description: |
